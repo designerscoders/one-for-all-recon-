@@ -4,7 +4,7 @@ fist run git.sh
 
 chmod +x git.sh
 
-./git.sh
+#./git.sh
 
 chmod +x go.sh 
 
