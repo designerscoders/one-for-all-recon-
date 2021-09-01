@@ -24,7 +24,7 @@ cd /root/
 ```bash
 cd /root/basic-recon/
 ```
-in scope.txt you add all target you wanted to run that scan 
+in scope.txt you add all target you wanted to  
 how to run 
 ```bash
 ./recon.sh scope.txt
