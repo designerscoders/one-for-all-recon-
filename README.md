@@ -28,4 +28,4 @@ in scope.txt you add all target you wanted to run that scan
 how to run 
 ```bash
 ./recon.sh scope.txt
-```bash
+```
