@@ -12,6 +12,12 @@ chmod +x git.sh
 ```bash
 chmod +x go.sh 
 ```
+```bash
+chmod +x crt.sh
+```
+```bash
+chmod +x nmapAutomator.sh
+```
 
 after that go to root directer and run go.sh in root direcotry
 
